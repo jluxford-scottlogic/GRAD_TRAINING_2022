@@ -1,0 +1,7 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: 'system-ui';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
